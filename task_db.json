@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "task1",
+        "description": "description1",
+        "category": "работа",
+        "due_date": "2024-12-3",
+        "priority": "низкий",
+        "status": "выполнен"
+    },
+    {
+        "id": 2,
+        "title": "task2",
+        "description": "description2",
+        "category": "учеба",
+        "due_date": "1990-10-15",
+        "priority": "низкий",
+        "status": "в работе"
+    },
+    {
+        "id": 3,
+        "title": "task3",
+        "description": "description3",
+        "category": "хобби",
+        "due_date": "2024-12-20",
+        "priority": "низкий",
+        "status": "в ожидании"
+    }
+]
